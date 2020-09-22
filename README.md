@@ -1,2 +1,3 @@
-#Para isntalar 
+Para instalar
+ 
 npm install
